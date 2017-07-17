@@ -1,0 +1,9 @@
+c:\users\pgyti\OneDrive\Documents\Visual Studio 2017\Projects\Amidus\Amidus\bin\Debug\netcoreapp1.1\Amidus.deps.json
+c:\users\pgyti\OneDrive\Documents\Visual Studio 2017\Projects\Amidus\Amidus\bin\Debug\netcoreapp1.1\Amidus.runtimeconfig.json
+c:\users\pgyti\OneDrive\Documents\Visual Studio 2017\Projects\Amidus\Amidus\bin\Debug\netcoreapp1.1\Amidus.runtimeconfig.dev.json
+c:\users\pgyti\OneDrive\Documents\Visual Studio 2017\Projects\Amidus\Amidus\bin\Debug\netcoreapp1.1\Amidus.dll
+c:\users\pgyti\OneDrive\Documents\Visual Studio 2017\Projects\Amidus\Amidus\obj\Debug\netcoreapp1.1\Amidus.csprojResolveAssemblyReference.cache
+c:\users\pgyti\OneDrive\Documents\Visual Studio 2017\Projects\Amidus\Amidus\obj\Debug\netcoreapp1.1\Amidus.AssemblyInfo.cs
+C:\Users\pgyti\OneDrive\Documents\Visual Studio 2017\Projects\Amidus\Amidus\bin\Debug\netcoreapp1.1\Amidus.pdb
+C:\Users\pgyti\OneDrive\Documents\Visual Studio 2017\Projects\Amidus\Amidus\obj\Debug\netcoreapp1.1\Amidus.dll
+C:\Users\pgyti\OneDrive\Documents\Visual Studio 2017\Projects\Amidus\Amidus\obj\Debug\netcoreapp1.1\Amidus.pdb
